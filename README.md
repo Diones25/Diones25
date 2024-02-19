@@ -44,7 +44,8 @@ Meu foco atualmente está em desevolvimento Web Fullstack com Node JS e React js
 </div>
 
 <div>
-![Diones25's Stats](https://github-readme-stats.vercel.app/api?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    
 </div>
 
 <div>   
