@@ -1,6 +1,6 @@
 
 # Olá, eu sou a Diones! 👋
-Eu sou Diones Pereira Alves
+Eu sou Diones Pereira Alves <br />
 Desenvolvedor Fullstack 
 Formando em Ciência da Computação
 Meu foco atualmente está em desevolvimento Web Fullstack com Node JS e React js.
