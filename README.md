@@ -43,6 +43,10 @@ Meu foco atualmente está em desevolvimento Web Fullstack com Node JS e React js
   <img align="center" alt="react_bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg">
 </div>
 
+<div>
+![Diones25's Stats](https://github-readme-stats.vercel.app/api?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
+</div>
+
 <div>   
    <a href="https://discord.com/invite/cTPAzJBH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pereiradiones987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
