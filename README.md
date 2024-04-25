@@ -3,7 +3,7 @@
 Eu sou Diones Pereira Alves <br />
 Desenvolvedor Fullstack <br />
 Formado em Ciência da Computação <br />
-Meu foco atualmente está em desevolvimento Web Fullstack com Node JS e React js.
+Meu foco atualmente está em desenvolvimento Web Fullstack com Node JS e React js.
 
 ### 🖥️ Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
