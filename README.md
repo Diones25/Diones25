@@ -1,26 +1,82 @@
-# Olá, eu sou a Diones! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20a%20Diones!%20👋&fontSize=50&animation=fadeIn" />
+</div>
 
-Eu sou Diones Pereira Alves <br />
-Desenvolvedor Fullstack <br />
-Formado em Ciência da Computação <br />
-Meu foco atualmente está em desenvolvimento Web Fullstack com Node JS e React js.
+<div align="center">
+  <h3>🚀 Desenvolvedora Fullstack | Bacharel em Ciência da Computação</h3>
+  <p>Focada em construir soluções modernas e escaláveis com <b>Node.js</b> e <b>React</b>.</p>
+</div>
 
-### 🖥️ Tecnologias e Ferramentas:
+---
 
-<span align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node JS" height="30" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original-wordmark.svg" alt="Bamboo" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg" alt="confluence" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="Gimp" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" alt="mocha" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" alt="nodemon" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" height="30" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react_bootstrap" height="30" width="40"></span>
+### 👤 Sobre Mim
 
-<br />
+- 🎓 Bacharel em **Ciência da Computação**.
+- 💻 Atualmente focada em desenvolvimento **Web Fullstack**.
+- ⚡ Buscando constantemente aprender novas tecnologias e boas práticas de arquitetura.
+- 🎯 Objetivo: Criar aplicações que impactem positivamente a vida das pessoas.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+#### **Linguagens & Frameworks**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,express,php,java,spring" />
+  </a>
+</p>
+
+#### **Banco de Dados & ORM**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,prisma,sequelize" />
+  </a>
+</p>
+
+#### **Ferramentas & DevOps**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,azure,postman,figma,linux,npm,jest" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Diones25&theme=vue-dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <br />
 
-<p align="center">
-  <a href="https://discord.com/invite/cTPAzJBH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:pereiradiones987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diones-pereira-alves-31bb3969/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+---
+
+### 🤝 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/diones-pereira-alves-31bb3969/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pereiradiones987@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/invite/cTPAzJBH" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diones25&color=blueviolet&style=flat-square&label=VISITAS+AO+PERFIL" alt="Diones25" />
+</div>
