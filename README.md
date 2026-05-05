@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Desenvolvedora Fullstack | Bacharel em Ciência da Computação</h3>
+  <h3>🚀 Desenvolvedor Fullstack | Bacharel em Ciência da Computação</h3>
   <p>Focada em construir soluções modernas e escaláveis com <b>Node.js</b> e <b>React</b>.</p>
 </div>
 
