@@ -5,7 +5,6 @@ Formado em Ciência da Computação <br />
 Meu foco atualmente está em desenvolvimento Web Fullstack com Node JS e React js.
 
 ### 🖥️ Tecnologias e Ferramentas:
-### 🖥️ Tecnologias e Ferramentas:
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" height="30" width="40">
