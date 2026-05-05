@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>🚀 Desenvolvedor Fullstack | Bacharel em Ciência da Computação</h3>
-  <p>Focada em construir soluções modernas e escaláveis com <b>Node.js</b> e <b>React</b>.</p>
+  <p>Focado em construir soluções modernas e escaláveis com <b>Node.js</b> e <b>React</b>.</p>
 </div>
 
 ---
@@ -12,7 +12,7 @@
 ### 👤 Sobre Mim
 
 - 🎓 Bacharel em **Ciência da Computação**.
-- 💻 Atualmente focada em desenvolvimento **Web Fullstack**.
+- 💻 Atualmente focado em desenvolvimento **Web Fullstack**.
 - ⚡ Buscando constantemente aprender novas tecnologias e boas práticas de arquitetura.
 - 🎯 Objetivo: Criar aplicações que impactem positivamente a vida das pessoas.
 
