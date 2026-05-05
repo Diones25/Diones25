@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20a%20Diones!%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá%20eu%20sou%20Diones&fontSize=50&animation=fadeIn" />
 </div>
 
 <div align="center">
