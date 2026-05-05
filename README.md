@@ -42,8 +42,6 @@ Meu foco atualmente está em desenvolvimento Web Fullstack com Node JS e React j
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react_bootstrap" height="30" width="40">
 </p>
-
-<br />
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Diones25&theme=vue-dark&hide_border=true" />
