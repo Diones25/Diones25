@@ -1,46 +1,49 @@
 # Olá, eu sou a Diones! 👋
+
 Eu sou Diones Pereira Alves <br />
 Desenvolvedor Fullstack <br />
 Formado em Ciência da Computação <br />
 Meu foco atualmente está em desenvolvimento Web Fullstack com Node JS e React js.
 
 ### 🖥️ Tecnologias e Ferramentas:
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node JS" height="30" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="SQL Server" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original-wordmark.svg" alt="Bamboo" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg" alt="confluence" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" alt="Gimp" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="express" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" alt="mocha" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" alt="nodemon" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" height="30" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" alt="react_bootstrap" height="30" width="40">
-</div>
+
+[![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)](https://www.typescriptlang.org/)
+[![Node JS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://reactjs.org/)
+[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg)](https://www.mongodb.com/)
+[![Postgres](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/)
+[![Sequelize](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg)](https://sequelize.org/)
+[![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg)](https://nestjs.com/)
+[![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg)](https://www.postman.com/)
+[![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg)](https://azure.microsoft.com/)
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)](https://www.php.net/)
+[![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg)](https://www.microsoft.com/en-us/sql-server/)
+[![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)](https://www.java.com/)
+[![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg)](https://spring.io/projects/spring-boot)
+[![Material UI](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg)](https://mui.com/)
+[![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg)](https://getbootstrap.com/)
+[![Bamboo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bamboo/bamboo-original-wordmark.svg)](https://www.atlassian.com/software/bamboo)
+[![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg)](https://www.atlassian.com/software/jira)
+[![bitbucket](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg)](https://bitbucket.org/)
+[![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg)](https://www.figma.com/)
+[![swagger](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg)](https://swagger.io/)
+[![confluence](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg)](https://www.atlassian.com/software/confluence)
+[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)](https://git-scm.com/)
+[![Gimp](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg)](https://www.gimp.org/)
+[![linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![express](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg)](https://expressjs.com/)
+[![mocha](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg)](https://mochajs.org/)
+[![jest](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg)](https://jestjs.io/)
+[![mongoose](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg)](https://mongoosejs.com/)
+[![mysql](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
+[![nodemon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg)](https://nodemon.io/)
+[![npm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg)](https://www.npmjs.com/)
+[![prisma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg)](https://www.prisma.io/)
+[![react_bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg)](https://react-bootstrap.github.io/)
+
+<br />
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diones25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Diones25&theme=vue-dark&hide_border=true" />
